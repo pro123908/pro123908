@@ -11,11 +11,12 @@ I am a Full Stack Web2 & Web3 Engineer with experience in MERN Stack, Web3 Integ
 - Freelancing for 2 years as Full Stack Developer
 
 ## Projects
+
+- Working in Xord built a decentralized staking app called Dafi Super Staking (https://stake.dafiprotocol.io/)
+
 - Working in freelance, developed two big projects of Web2 & Web3 combined:
-
-- Shipment Delivery system (https://www.tisnix.io/)
-
-- Social Media that have nft collections and tokens transfer and also video calling feature (https://aiow.io/)
+  - Shipment Delivery system (https://www.tisnix.io/)
+  - Social Media that have nft collections and tokens transfer and also video calling feature (https://aiow.io/)
 
 ## Education
 - Bachelor's Degree in Software Engineering 
