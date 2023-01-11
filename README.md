@@ -4,7 +4,18 @@
 I am a Full Stack Web2 & Web3 Engineer with experience in MERN Stack, Web3 Integration and Blockchain Concepts. I have 4 years of experience in the industry, and have a passion for solving problems using technology.
 
 ## Skills
-- ReactJS, JavaScript, Web3 library, Ethereum,Solidity, Wallet connect, Web3 integration, NodeJS,NestJS,Mongodb,MERN Stack and Blockchain concepts
+- ReactJS
+- JavaScript
+- Web3 library
+- Ethereum
+- Solidity
+- Wallet connect
+- Web3 integration
+- NodeJ
+- NestJS
+- Mongodb
+- MERN Stack
+- Blockchain concepts
 
 ## Experience
 - Ongoing 2 years experience of working as Web3 Engineer at Xord(Blockchain Company)
