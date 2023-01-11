@@ -30,9 +30,9 @@ I am a Full Stack Web2 & Web3 Engineer with experience in MERN Stack, Web3 Integ
   - Social Media that have nft collections and tokens transfer and also video calling feature (https://aiow.io/)
 
 ## Education
-- Bachelor's Degree in Software Engineering 
-  Ned University of Engineering & Technology
-  2016-2020
+- Bachelor's Degree in Software Engineering from
+  Ned University of Engineering & Technology from
+  2016 to 2020
 
 ## Contact
 - Email: bilal.ahmad.n28@gmail.com
