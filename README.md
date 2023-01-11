@@ -25,5 +25,4 @@ I am a Full Stack Web2 & Web3 Engineer with experience in MERN Stack, Web3 Integ
 ## Contact
 - Email: bilal.ahmad.n28@gmail.com
 - Phone: +923164538236
-- LinkedIn : Bilal Ahmad
-- Github : Bilal Ahmad
+- LinkedIn : https://www.linkedin.com/in/pro123908/
